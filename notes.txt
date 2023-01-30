@@ -2,3 +2,19 @@
 // 0 : -1 = A
 // 1 : 1 = S
 // 0 : -1 = D
+
+--Going by a Nitendo Switch controller, since its all I have.--
+Screenshot: 13
+Home: 12
+Right joystick press: 11
+Left joystick press: 10
++: 9
+-: 8
+ZR: 7
+ZL: 6
+R: 5
+L: 4
+X: 3
+A: 2
+B: 1
+Y: 0
